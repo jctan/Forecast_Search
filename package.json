@@ -1,5 +1,5 @@
 {
-  "name": "Forecast Search",
+  "name": "Forecast_Search",
   "version": "1.0.0",
   "description": "Forecast search that's built in Redux with React",
   "main": "index.js",
